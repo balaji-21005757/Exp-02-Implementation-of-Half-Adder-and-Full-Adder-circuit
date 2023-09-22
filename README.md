@@ -95,7 +95,7 @@ endmodule
 
 ## TIMING DIAGRAM:
 ### Half Adder:
-![image](https://github.com/SOMEASVAR/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/93434149/2c55d3e3-9c73-4fcf-a4b4-36402051c726)
+![image](https://github.com/SOMEASVAR/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/93434149/2184815e-4677-471f-9732-df7fc2cdecb1)
 
 ### Full Adder:
 ![image](https://github.com/SOMEASVAR/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/93434149/8d1ebf2c-0a93-40e0-9455-e6a61f1c6e7e)
