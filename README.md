@@ -30,10 +30,24 @@ Sum =A’B’Cin + A’BCin’ + ABCin + AB’Cin’ = A ⊕ B ⊕ Cin Carry = A
 ### Figure:02 FULL ADDER 
 
 ## Procedure:
+### Step 1:
+Create a project with required entities.
 
-1. Connect the supply (+5V) to the circuit.
-2. Switch ON the main switch.
-3. If the output is 1, then the led glows.
+### Step 2: 
+Create a module along with respective file name.
+
+### Step 3: 
+Run the respective programs for the given boolean equations.
+
+### Step 4:
+Run the module and get the respective RTL outputs.
+
+### Step 5: 
+Create university program(VWF) for getting timing diagram.
+
+### Step 6: 
+Give the respective inputs for timing diagram and obtain the results.
+
 ## Program:
 ```
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
@@ -60,7 +74,7 @@ endmodule
 ```
 ### Logic symbol:
 #### Half Adder:
-![image](https://github.com/SOMEASVAR/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/93434149/5a70bf04-3daa-4ac8-baa4-fe17f8798f93)
+![image](https://github.com/SOMEASVAR/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/93434149/af4a3459-2e34-4e09-9158-0beb4a8d062d)
 #### Full Adder:
 ![image](https://github.com/SOMEASVAR/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/93434149/a94d607b-ca92-483f-ba7d-b5e29825d99d)
 ### Truth Table:
